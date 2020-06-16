@@ -4,8 +4,8 @@
 
 Copyright © 2019 - 2020 by Pongsak Suvanpong All Rights Reserved (psksvp@gmail.com)
 
-Version : [ 1393 ]
-Date : [ Mon 15 Jun 2020 20:17:55 AEST ]
+Version : [ 1394 ]
+Date : [ Tue 16 Jun 2020 16:48:48 AEST ]
 
 ![The Beautiful White Lake. The image was taken from https://en.wikipedia.org/wiki/Terkhiin_Tsagaan_Lake](whiteLake.jpg)
 
@@ -43,7 +43,7 @@ The novel should be read in the sequential order from the lower to the higher ch
 
 	Due to low demand, please email me [psksvp@gmail.com](mailto:psksvp@gmail.com) if you would like me to put these files (PDF and EPUB) back. 
 
-<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1393**, published on **Mon 15 Jun 2020 20:17:55 AEST** .
+<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1394**, published on **Tue 16 Jun 2020 16:48:48 AEST** .
     
     [Click here to download ebook files](https://psksvp.gitlab.io/hsdsme/download.html)
 
@@ -71,7 +71,7 @@ After Zhang Wuji found Zhao Min on the Grassland in the far west region of Mongo
 
 [Chapter 42   : A New Doctor On The Grass Land.](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-42)
 
-> Inside was a narrow passage with a stair. They walked down the stair, it was a cave. The surrounding wall of the cave was emitting soft green color light.
+> Zhao Min walked Zhang Wuji to the back of the room. At the corner, she pushed the wall hard then it was opened like a door. Inside was a narrow passage with a stair. They walked down the stair, it was a cave. The surrounding wall of the cave was emitting soft green light. After their eyes were adjusted to the low lighting condition, Zhang Wuji could see that the cave was a like tunnel. There was light at the far end. Zhao Min pointed her finger to a direction at the end of the stair.
 
 [Chapter 43   : The Invisible Living Things.](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-43)
 

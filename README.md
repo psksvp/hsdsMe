@@ -4,8 +4,8 @@
 
 Copyright © 2019 - 2020 by Pongsak Suvanpong All Rights Reserved (psksvp@gmail.com)
 
-Version : [ 1441 ]
-Date : [ Mon 13 Jul 2020 17:30:10 AEST ]
+Version : [ 1442 ]
+Date : [ Tue 14 Jul 2020 09:27:45 AEST ]
 
 ![The Beautiful White Lake. The image was taken from https://en.wikipedia.org/wiki/Terkhiin_Tsagaan_Lake](whiteLake.jpg)
 
@@ -43,7 +43,7 @@ The novel should be read in the sequential order from the lower to the higher ch
 
 	Due to low demand, please email me [psksvp@gmail.com](mailto:psksvp@gmail.com) if you would like me to put these files (PDF and EPUB) back. 
 
-<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1441**, published on **Mon 13 Jul 2020 17:30:10 AEST** .
+<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1442**, published on **Tue 14 Jul 2020 09:27:45 AEST** .
     
     [Click here to download ebook files](https://psksvp.gitlab.io/hsdsme/download.html)
 

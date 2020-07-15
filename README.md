@@ -4,8 +4,8 @@
 
 Copyright © 2019 - 2020 by Pongsak Suvanpong All Rights Reserved (psksvp@gmail.com)
 
-Version : [ 1444 ]
-Date : [ Tue 14 Jul 2020 19:02:58 AEST ]
+Version : [ 1445 ]
+Date : [ Wed 15 Jul 2020 14:24:03 AEST ]
 
 ![The Beautiful White Lake. The image was taken from https://en.wikipedia.org/wiki/Terkhiin_Tsagaan_Lake](whiteLake.jpg)
 
@@ -43,7 +43,7 @@ The novel should be read in the sequential order from the lower to the higher ch
 
 	Due to low demand, please email me [psksvp@gmail.com](mailto:psksvp@gmail.com) if you would like me to put these files (PDF and EPUB) back. 
 
-<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1444**, published on **Tue 14 Jul 2020 19:02:58 AEST** .
+<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1445**, published on **Wed 15 Jul 2020 14:24:03 AEST** .
     
     [Click here to download ebook files](https://psksvp.gitlab.io/hsdsme/download.html)
 
@@ -114,7 +114,7 @@ After Zhang Wuji found Zhao Min on the Grassland in the far west region of Mongo
 
 > Zhao Min was observing carefully at the top of the small limestone mountain using her Bamboo scope. A tall man walked out from a cave with four young women who dressed in bright transparent yellow silk. They stopped just in front of the cave. The women moved to stand just beside the man; two on each side. The dwarf man shouted, *"All kneel for the leader!"* Right after the kneeling, the loud sound of hailing followed, *"We want to see the leader!"* As Zhou Zhiruo and Zhao Min looked down at the base of the limestone mountain, Zhao Min whispered, *"Zhiruo, did we wait too long? Now there are over a thousand mindless followers."* 
 
-[Chapter 53 : The Devil Hunting (unfinished)](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-53)
+[Chapter 53 : The Devil Hunting](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-53)
 
 > Zhao Min forced her Liquid Metal Sword to shrink into just the size of her index finger. Then she put it in her belt pocket. After that, she pulled a piece of torn silk from the clothes of the man, then she put it high up against the bright sunlight, she said to herself, _"This must be at least several centuries  old!"_ Then she gazed at the waist area of the man, she saw a thin metal loop which stuck out from inside the man's silk belt. She pulled it out, there were coins, each had a square hole in the center, the thin metal loop was used to keep them together. 
 

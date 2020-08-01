@@ -6,8 +6,8 @@ Copyright © 2019 - 2020 by Pongsak Suvanpong All Rights Reserved (psksvp@gmail.
 
 __This work must not be sold for any from of monetary returned. It must always be free to read.__
 
-Version : [ 1452 ]
-Date : [ Sat  1 Aug 2020 14:24:37 AEST ]
+Version : [ 1453 ]
+Date : [ Sat  1 Aug 2020 21:02:54 AEST ]
 
 ![The Beautiful White Lake. The image was taken from https://en.wikipedia.org/wiki/Terkhiin_Tsagaan_Lake](whiteLake.jpg)
 
@@ -45,7 +45,7 @@ The novel should be read in the sequential order from the lower to the higher ch
 
 	Due to low demand, please email me [psksvp@gmail.com](mailto:psksvp@gmail.com) if you would like me to put these files (EPUB, MOBI and PDF) back. 
 
-<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1452**, published on **Sat  1 Aug 2020 14:24:37 AEST** .
+<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1453**, published on **Sat  1 Aug 2020 21:02:54 AEST** .
     
     [Click here to download ebook files](https://psksvp.gitlab.io/hsdsme/download.html)
 
@@ -103,12 +103,12 @@ After Zhang Wuji found Zhao Min on the Grassland in the far west region of Mongo
 
 > Zhao Min did not know how long she had slept. When she opened her eyes again, she peeked outside to see that the sun was just above the horizon on the western sky. There was a person standing on a white sand dune about a Li away. Zhao Min was not sure who the person was or if she was in a dream. The person was quite tall with a very board chest and dressed in white, he was probably about 40 or 50 years old. The silver hair on his head was made into a taoist style bun. His face was long with clean shaved. He was slowly walking toward the tent.   
 
-[Chapter 50   : An Evil Is A Die Hard.](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-50)
+[Chapter 50   : The Evil Is A Die Hard.](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-50)
 
 > For a moment, Zhao Min kept aiming carefully at one of the men who was on the horse back in the middle of the group. Zhang Wuji could hear her breathing was slow and constant. Then she released the arrow and quickly pulled another one out, drew and released in a rapid succession. The arrows followed one after another in an almost perfect straight line to their intended target.  
 
 
-[Chapter 51 : A New Face Of The Ruler.](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-51)
+[Chapter 51 : The New Face Of The Ruler.](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-51)
 
 > In the meeting room, XiaoMei unlocked her hands while Ruyang Wang was laughing. He said, *"MinMin, so this is your long term mission. You are the one who destroys the Yuan court! Your own people!"* He was about to say more, but Zhao Min pulled her flexible sword out and pointed it right at her father neck. *"Father! Haven't I told you, knowing too much can be dangerous?"* Zhao Min said using her strongest warning tone.
 

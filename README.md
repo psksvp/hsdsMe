@@ -7,7 +7,7 @@ Copyright © 2019 - 2020 by Pongsak Suvanpong All Rights Reserved (psksvp@gmail.
 __This work must not be sold for any from of monetary returned. It must always be free to read.__
 
 Version : [ 1461 ]
-Date : [ Tue  1 Sep 2020 12:09:26 AEST ]
+Date : [ Tue  1 Sep 2020 17:21:18 AEST ]
 
 ![The Beautiful White Lake. The image was taken from https://en.wikipedia.org/wiki/Terkhiin_Tsagaan_Lake](whiteLake.jpg)
 
@@ -45,7 +45,7 @@ The novel should be read in the sequential order from the lower to the higher ch
 
 	Due to low demand, please email me [psksvp@gmail.com](mailto:psksvp@gmail.com) if you would like me to put these files (EPUB, MOBI and PDF) back. 
 
-<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1461**, published on **Tue  1 Sep 2020 12:09:26 AEST** .
+<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1461**, published on **Tue  1 Sep 2020 17:21:18 AEST** .
     
     [Click here to download ebook files](https://psksvp.gitlab.io/hsdsme/download.html)
 
@@ -119,4 +119,10 @@ After Zhang Wuji found Zhao Min on the Grassland in the far west region of Mongo
 [Chapter 53 : The Devil Hunting](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-53)
 
 > Zhao Min forced her Liquid Metal Sword to shrink into just the size of her index finger. Then she put it in her belt pocket. After that, she pulled a piece of torn silk from the clothes of the man, then she put it high up against the bright sunlight, she said to herself, _"This must be at least several centuries  old!"_ Then she gazed at the waist area of the man, she saw a thin metal loop which stuck out from inside the man's silk belt. She pulled it out, there were coins, each had a square hole in the center, the thin metal loop was used to keep them together. 
+
+
+[Chapter 54 : The New Order](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-54)
+
+> Zhao Min and Zhang Wuji rode to the top of a hill. Kuangyin was in the sack on Zhao Min's back while Yulian was on Zhang Wuji's back. Both kids hugged their MinMin and Gege tight. On the hill, they saw a big dust cloud was blanketing about 20 Li away on the West side. Sound of thousand of horses galloping could be heard. Kuangyin pointed his finger at the dust cloud, he said using his cute voice, _"MinMinnnnn.."_ Zhao Min pulled his cute little hand to kiss, _"Kuangyin! MinMin will teach them, god does not punish innocent people."_ Then she looked at Zhang Wuji who looked back at her with a nod.
+
 

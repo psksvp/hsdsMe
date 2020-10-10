@@ -7,7 +7,7 @@ Copyright © 2019 - 2020 by Pongsak Suvanpong All Rights Reserved (psksvp@gmail.
 __This work must not be sold for any form of monetary returned. It must always be free to read.__
 
 Version : [ 1477 ]
-Date : [ Sun 11 Oct 2020 10:34:38 AEDT ]
+Date : [ Sun 11 Oct 2020 10:49:07 AEDT ]
 
 ![The Beautiful White Lake. The image was taken from https://en.wikipedia.org/wiki/Terkhiin_Tsagaan_Lake](whiteLake.jpg)
 
@@ -45,7 +45,7 @@ The novel should be read in the sequential order from the lower to the higher ch
 
 	Due to low demand, please email me [psksvp@gmail.com](mailto:psksvp@gmail.com) if you would like me to put these files (EPUB, MOBI and PDF) back. 
 
-<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1477**, published on **Sun 11 Oct 2020 10:34:38 AEDT** .
+<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1477**, published on **Sun 11 Oct 2020 10:49:07 AEDT** .
     
     [Click here to download ebook files](https://psksvp.gitlab.io/hsdsme/download.html)
 
@@ -123,6 +123,6 @@ After Zhang Wuji found Zhao Min on the Grassland in the far west region of Mongo
 
 [Chapter 54 : The New Order](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-54)
 
-> Zhao Min and Zhang Wuji rode to the top of a hill. Kuangyin was in the sack on Zhao Min's back while Yulian was on Zhang Wuji's back. Both kids hugged their MinMin and Gege tight. On the hill, they saw a big dust cloud was blanketing about 20 Li away on the West side. Sound of thousand of horses galloping could be heard. Kuangyin pointed his finger at the dust cloud, he said using his cute voice, _"MinMinnnnn.."_ Zhao Min pulled his cute little hand to kiss, _"Kuangyin! MinMin will teach them, Heaven does not punish innocent people."_ Then she looked at Zhang Wuji who looked back at her with a nod.
+> Zhao Min and Zhang Wuji rode to the top of a hill. Kuangyin was in the sack on Zhao Min's back while Yulian was on Zhang Wuji's back. Both kids hugged their MinMin and Gege tight. On the hill, they saw a big dust cloud was blanketing about 20 Li away on the West side. Sound of thousand of horses galloping could be heard. Kuangyin pointed his index finger at the dust cloud, he said using his cute voice, _"MinMinnnnn.."_ Zhao Min pulled his cute little hand to kiss, _"Kuangyin! MinMin will teach them, Heaven does not punish innocent people."_ Then she looked at Zhang Wuji who looked back at her with a nod.
 
 

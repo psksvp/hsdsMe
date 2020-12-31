@@ -7,7 +7,7 @@ Copyright © 2019 - 2020 by Pongsak Suvanpong All Rights Reserved (psksvp@gmail.
 __This work must not be sold for any form of monetary returned. It must always be free to read.__
 
 Version : [ 1499 ]
-Date : [ Fri  1 Jan 2021 08:01:25 AEDT ]
+Date : [ Fri  1 Jan 2021 08:35:15 AEDT ]
 
 ![The Beautiful White Lake. The image was taken from https://en.wikipedia.org/wiki/Terkhiin_Tsagaan_Lake](whiteLake.jpg)
 
@@ -45,7 +45,7 @@ The novel should be read in the sequential order from the lower to the higher ch
 
 	Due to low demand, please email me [psksvp@gmail.com](mailto:psksvp@gmail.com) if you would like me to put these files (EPUB, MOBI and PDF) back. 
 
-<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1499**, published on **Fri  1 Jan 2021 08:01:25 AEDT** .
+<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1499**, published on **Fri  1 Jan 2021 08:35:15 AEDT** .
     
     [Click here to download ebook files](https://psksvp.gitlab.io/hsdsme/download.html)
 
@@ -125,4 +125,14 @@ After Zhang Wuji found Zhao Min on the Grassland in the far west region of Mongo
 
 > Zhao Min and Zhang Wuji rode to the top of a hill. Kuangyin was in the sack on Zhao Min's back while Yulian was on Zhang Wuji's back. Both kids hugged their MinMin and Gege tight. On the hill, they saw a big dust cloud was blanketing about 20 Li away on the West side. Sound of thousand of horses galloping could be heard. Kuangyin pointed his index finger at the dust cloud, he said using his cute voice, _"MinMinnnnn.."_ Zhao Min pulled his cute little hand to kiss, _"Kuangyin! MinMin will teach them, Heaven does not punish innocent people."_ Then she looked at Zhang Wuji who looked back at her with a nod.
 
+[Chapter 54 : The Path of a Wise Man (unfinished)](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-55)
 
+> Zhao Min was busy calculating something for a long moment, then she wrote a long sequence of numbers down on a piece of paper. 
+
+> Duan Zhengkang looked at it, then he said, _"Junzhu, it looks like this sequence."_ He pointed his index finger at the engraving on the wall. 
+
+> Zhao Min shook her head, _"It's just similar."_ She walked to pick up a long bamboo stick, then she used it to point at the pentagram on the ceiling, _"Senior Duan, the next number is the sum of the previous two."_   
+
+> Duan Zhengkang was looking at the pentagram for a moment, he said, _"I am going to try it."_, then he started rotating the metal knob leftward and rightward a few times. Right after that, a loud sound of metal grinding metal could be heard, followed by a loud _"CLANG....."_ like a large lever was unlatched. 
+
+> Zhao Min bent herself down to be close to the floor, then she tilted her head toward her left, she called out, _"Wuji Gege, Zhiruo --- Wuji Gege, Zhiruo --- Wuji Gege, Zhiruo"_  Her voice was echoing loudly into the chamber behind a giant metal door. 

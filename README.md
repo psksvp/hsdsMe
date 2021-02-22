@@ -7,7 +7,7 @@ Copyright © 2019 - 2020 by Pongsak Suvanpong All Rights Reserved (psksvp@gmail.
 __This work must not be sold for any form of monetary returned. It must always be free to read.__
 
 Version : [ 1515 ]
-Date : [ Mon 22 Feb 2021 18:49:42 AEDT ]
+Date : [ Mon 22 Feb 2021 21:32:28 AEDT ]
 
 ![The Beautiful White Lake. The image was taken from https://en.wikipedia.org/wiki/Terkhiin_Tsagaan_Lake](whiteLake.jpg)
 
@@ -45,7 +45,7 @@ The novel should be read in the sequential order from the lower to the higher ch
 
 	Due to low demand, please email me [psksvp@gmail.com](mailto:psksvp@gmail.com) if you would like me to put these files (EPUB, MOBI and PDF) back. 
 
-<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1515**, published on **Mon 22 Feb 2021 18:49:42 AEDT** .
+<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1515**, published on **Mon 22 Feb 2021 21:32:28 AEDT** .
     
     [Click here to download ebook files](https://psksvp.gitlab.io/hsdsme/download.html)
 
@@ -85,7 +85,7 @@ After Zhang Wuji found Zhao Min on the Grassland in the far west region of Mongo
   
 [Chapter 45   : It Was The Devil's Own To Trust A Friend.](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-45)
 
-> Zhang Wuji moved in front of Zhao Min to shield her from any danger. After a few moments, there was no movement from the person, he then walked to the person and picked the baby up then passed it to Zhao Min. He turned the person around and exclaimed loudly, *"Zhiruo....!"*.
+> Zhang Wuji jumped to be in front of Fan Yao and about to hit him with his palm, he shouted angrily, *"If you ever have any thought of harming MinMin again, this palm will melt your brain and your bone. This includes everyone who can hear me."* 
 
 [Chapter 46   : The Cactus Has Sprouted.](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-46)
 

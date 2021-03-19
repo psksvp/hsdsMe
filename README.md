@@ -6,8 +6,8 @@ Copyright © 2019 - 2020 by Pongsak Suvanpong All Rights Reserved (psksvp@gmail.
 
 __This work must not be sold for any form of monetary returned. It must always be free to read.__
 
-Version : [ 1519 ]
-Date : [ Tue 16 Mar 2021 21:01:46 AEDT ]
+Version : [ 1520 ]
+Date : [ Fri 19 Mar 2021 12:12:50 AEDT ]
 
 ![The Beautiful White Lake. The image was taken from https://en.wikipedia.org/wiki/Terkhiin_Tsagaan_Lake](whiteLake.jpg)
 
@@ -45,7 +45,7 @@ The novel should be read in the sequential order from the lower to the higher ch
 
 	Due to low demand, please email me [psksvp@gmail.com](mailto:psksvp@gmail.com) if you would like me to put these files (EPUB, MOBI and PDF) back. 
 
-<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1519**, published on **Tue 16 Mar 2021 21:01:46 AEDT** .
+<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1520**, published on **Fri 19 Mar 2021 12:12:50 AEDT** .
     
     [Click here to download ebook files](https://psksvp.gitlab.io/hsdsme/download.html)
 
@@ -81,7 +81,7 @@ After Zhang Wuji found Zhao Min on the Grassland in the far west region of Mongo
 
 [Chapter 44   : The Cactus Has Ripened.](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-44)
 
-> Zhang Wuji walked to Zhao Min and about to help her down from the horse. Suddenly Zhao Min fell down, but Zhang Wuji managed to catch her in his arms. *"MinMin, Are you all right? Are you ok? MinMin answer me please!"*, Zhang Wuji asked loudly.
+> Zhang Wuji walked to Zhao Min and about to help her down from the horse. Suddenly Zhao Min fell down, but Zhang Wuji managed to catch her in his arms. *"MinMin, Are you all right? Are you all right? MinMin answer me please!"*, Zhang Wuji asked loudly.
   
 [Chapter 45   : It Was The Devil's Own To Trust A Friend.](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-45)
 

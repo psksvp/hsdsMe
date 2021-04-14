@@ -7,7 +7,7 @@ Copyright © 2019 - 2020 by Pongsak Suvanpong All Rights Reserved (psksvp@gmail.
 __This work must not be sold for any form of monetary returned. It must always be free to read.__
 
 Version : [ 1526 ]
-Date : [ Wed 14 Apr 2021 10:11:02 AEST ]
+Date : [ Wed 14 Apr 2021 10:40:34 AEST ]
 
 ![The Beautiful White Lake. The image was taken from https://en.wikipedia.org/wiki/Terkhiin_Tsagaan_Lake](whiteLake.jpg)
 
@@ -45,7 +45,7 @@ The novel should be read in the sequential order from the lower to the higher ch
 
 	Due to low demand, please email me [psksvp@gmail.com](mailto:psksvp@gmail.com) if you would like me to put these files (EPUB, MOBI and PDF) back. 
 
-<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1526**, published on **Wed 14 Apr 2021 10:11:02 AEST** .
+<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1526**, published on **Wed 14 Apr 2021 10:40:34 AEST** .
     
     [Click here to download ebook files](https://psksvp.gitlab.io/hsdsme/download.html)
 
@@ -127,12 +127,4 @@ After Zhang Wuji found Zhao Min on the Grassland in the far west region of Mongo
 
 [Chapter 55 : The Path of a Wise Man (unfinished)](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-55)
 
-> Zhao Min ran back to look at Zhou Zhiruo which by then, the dark blue area at her chin had expanded. 
-
-> _"You mustn't be evil like that. I have been once, it wasn't ..."_ Zhou Zhiruo said faintly and paused. Her eyes closed. 
-
-> _"Zhiruo! Zhiruo!"_ Zhao Min was crying. 
-
-> _"Little sister --- Heaven blessed me so much to be able ..."_ Zhou Zhiruo lost her consciousness after that. 
-
-> Zhao Min was crying frantically as she held Zhou Zhiruo in her arms. She turned toward where Zhang Wuji was, then she called out, _"Wuji Gege --- you must come quick!"_
+> Zhao Min ran back to look at Zhou Zhiruo which by then, the dark blue area at her chin had expanded. _"You mustn't be evil like that. I have been once, it wasn't ..."_ Zhou Zhiruo said faintly and paused. Her eyes closed. _"Zhiruo! Zhiruo!"_ Zhao Min was crying. _"Little sister --- Heaven blessed me so much to be able ..."_ Zhou Zhiruo lost her consciousness after that. Zhao Min was crying frantically as she held Zhou Zhiruo in her arms. She turned toward where Zhang Wuji was, then she called out, _"Wuji Gege --- you must come quick!"_

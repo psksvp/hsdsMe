@@ -6,8 +6,8 @@ Copyright © 2019 - 2020 by Pongsak Suvanpong All Rights Reserved (psksvp@gmail.
 
 __This work must not be sold for any form of monetary returned. It must always be free to read.__
 
-Version : [ 1525 ]
-Date : [ Thu  8 Apr 2021 08:17:52 AEST ]
+Version : [ 1526 ]
+Date : [ Wed 14 Apr 2021 10:11:02 AEST ]
 
 ![The Beautiful White Lake. The image was taken from https://en.wikipedia.org/wiki/Terkhiin_Tsagaan_Lake](whiteLake.jpg)
 
@@ -45,7 +45,7 @@ The novel should be read in the sequential order from the lower to the higher ch
 
 	Due to low demand, please email me [psksvp@gmail.com](mailto:psksvp@gmail.com) if you would like me to put these files (EPUB, MOBI and PDF) back. 
 
-<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1525**, published on **Thu  8 Apr 2021 08:17:52 AEST** .
+<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1526**, published on **Wed 14 Apr 2021 10:11:02 AEST** .
     
     [Click here to download ebook files](https://psksvp.gitlab.io/hsdsme/download.html)
 
@@ -125,14 +125,14 @@ After Zhang Wuji found Zhao Min on the Grassland in the far west region of Mongo
 
 > Zhao Min and Zhang Wuji rode to the top of a hill. Kuangyin was in the sack on Zhao Min's back while Yulian was on Zhang Wuji's back. Both kids hugged their MinMin and Gege tight. On the hill, they saw a big dust cloud was blanketing about 20 Li away on the West side. Sound of thousand of horses galloping could be heard. Kuangyin pointed his index finger at the dust cloud, he said using his cute voice, _"MinMinnnnn.."_ Zhao Min pulled his cute little hand to kiss, _"Kuangyin! MinMin will teach them, Heaven does not punish innocent people."_ Then she looked at Zhang Wuji who looked back at her with a nod.
 
-[Chapter 54 : The Path of a Wise Man (unfinished)](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-55)
+[Chapter 55 : The Path of a Wise Man (unfinished)](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-55)
 
-> Zhao Min was busy calculating something for a long moment, then she wrote a long sequence of numbers down on a piece of paper. 
+> Zhao Min ran back to look at Zhou Zhiruo which by then, the dark blue area at her chin had expanded. 
 
-> Duan Zhengkang looked at it, then he said, _"Junzhu, it looks like this sequence."_ He pointed his index finger at the engraving on the wall. 
+> _"You mustn't be evil like that. I have been once, it wasn't ..."_ Zhou Zhiruo said faintly and paused. Her eyes closed. 
 
-> Zhao Min shook her head, _"It's just similar."_ She walked to pick up a long bamboo stick, then she used it to point at the pentagram on the ceiling, _"Senior Duan, the next number is the sum of the previous two."_   
+> _"Zhiruo! Zhiruo!"_ Zhao Min was crying. 
 
-> Duan Zhengkang was looking at the pentagram for a moment, he said, _"I am going to try it."_, then he started rotating the metal knob leftward and rightward a few times. Right after that, a loud sound of metal grinding metal could be heard, followed by a loud _"CLANG....."_ like a large lever was unlatched. 
+> _"Little sister --- Heaven blessed me so much to be able ..."_ Zhou Zhiruo lost her consciousness after that. 
 
-> Zhao Min bent herself down to be close to the floor, then she tilted her head toward her left, she called out, _"Wuji Gege, Zhiruo --- Wuji Gege, Zhiruo --- Wuji Gege, Zhiruo"_  Her voice was echoing loudly into the chamber behind a giant metal door. 
+> Zhao Min was crying frantically as she held Zhou Zhiruo in her arms. She turned toward where Zhang Wuji was, then she called out, _"Wuji Gege --- you must come quick!"_

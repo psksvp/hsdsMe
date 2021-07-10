@@ -7,7 +7,7 @@ Copyright © 2019 - 2020 by Pongsak Suvanpong All Rights Reserved (psksvp@gmail.
 __This work must not be sold for any form of monetary returned. It must always be free to read.__
 
 Version : [ 1543 ]
-Date : [ Sat 10 Jul 2021 21:13:24 AEST ]
+Date : [ Sun 11 Jul 2021 07:10:45 AEST ]
 
 ![The Beautiful White Lake. The image was taken from https://en.wikipedia.org/wiki/Terkhiin_Tsagaan_Lake](whiteLake.jpg)
 
@@ -45,7 +45,7 @@ The novel should be read in the sequential order from the lower to the higher ch
 
 	Due to low demand, please email me [psksvp@gmail.com](mailto:psksvp@gmail.com) if you would like me to put these files (EPUB, MOBI and PDF) back. 
 
-<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1543**, published on **Sat 10 Jul 2021 21:13:24 AEST** .
+<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1543**, published on **Sun 11 Jul 2021 07:10:45 AEST** .
     
     [Click here to download ebook files](https://psksvp.gitlab.io/hsdsme/download.html)
 
@@ -128,5 +128,9 @@ After Zhang Wuji found Zhao Min on the Grassland in the far west region of Mongo
 [Chapter 55 : The Path of a Wise Man](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-55)
 
 > Zhao Min ran back to look at Zhou Zhiruo. By then, the dark blue area at Zhou Zhiruo's chin had expanded. _"You mustn't be evil like that. I have been once, it wasn't ..."_ Zhou Zhiruo said faintly and paused. Her eyes closed. _"Zhiruo! Zhiruo!"_ Zhao Min was crying. _"Little sister --- Heaven blessed me so much to be able ..."_ Zhou Zhiruo did not finish, she lost her consciousness after that. Zhao Min was crying frantically as she held Zhou Zhiruo in her arms. She turned toward where Zhang Wuji was, then she called out, _"Wuji Gege --- you must come quick!"_ 
+
+[Chapter 56: The New Frontier](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-56)
+
+> Zhao Min was slowly flipping through the pages of the old book, then she stopped at a page with a diagram. She was looking at the diagram for a moment before she took her notebook out to  sketched the diagram down. Zhang Wuji walked back to sit next to her. He looked at the diagram which Zhao Min was sketching for a moment, then he pointed his index finger at the bottom of the page, _"MinMin, Can you read this?"_. He asked, but Zhao Min shook her head, she replied, _"I think, it's the name of the master who discovered or invented this wonderful knowledge."_ . The text in the book which Zhang Wuji was looking at had an inscription `Ἀρχιμήδης;` written with a very black ink. 
 
 

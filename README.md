@@ -7,7 +7,7 @@ Copyright © 2019 - 2021 by Pongsak Suvanpong All Rights Reserved (psksvp@gmail.
 __This work must not be sold for any form of monetary returned. It must always be free to read.__
 
 Version : [ 1553 ]
-Date : [ Tue 15 Nov 2022 07:22:54 AEDT ]
+Date : [ Tue 15 Nov 2022 09:08:14 AEDT ]
 
 ![The Beautiful White Lake. The image was taken from https://en.wikipedia.org/wiki/Terkhiin_Tsagaan_Lake](whiteLake.jpg)
 
@@ -45,7 +45,7 @@ The novel should be read in the sequential order from the lower to the higher ch
 
 	Due to low demand, please email me [psksvp@gmail.com](mailto:psksvp@gmail.com) if you would like me to put these files (EPUB, MOBI and PDF) back. 
 
-<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1553**, published on **Tue 15 Nov 2022 07:22:54 AEDT** .
+<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1553**, published on **Tue 15 Nov 2022 09:08:14 AEDT** .
     
     [Click here to download ebook files](https://psksvp.gitlab.io/hsdsme/download.html)
 
@@ -131,6 +131,6 @@ After Zhang Wuji found Zhao Min on the Grassland in the far west region of Mongo
 
 [Chapter 56: The New Frontier](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-56)
 
-> Zhao Min was slowly flipping through the pages of the old book, then she stopped at a page with a diagram. She was looking at the diagram for a moment before she took her notebook out to  sketched the diagram down. Zhang Wuji walked back to sit next to her. He looked at the diagram which Zhao Min was sketching for a moment, then he pointed his index finger at the bottom of the page, _"MinMin, Can you read this?"_. He asked, but Zhao Min shook her head, she replied, _"I think, it's the name of the master who discovered or invented this wonderful knowledge."_ . The text in the book which Zhang Wuji was looking at had an inscription `Ἀρχιμήδης;` written with a very black ink. 
+> Zhao Min was slowly flipping through the pages of the old book, then she stopped at a page with a diagram. She was looking at the diagram for a moment before she took her notebook out and sketched the diagram down. Zhang Wuji walked back to sit next to her. He looked at the diagram which Zhao Min was sketching for a moment, then he pointed his index finger at the bottom of the page, _"MinMin, Can you read this?"_. He asked, but Zhao Min shook her head, she replied, _"I think, it's the name of the master who discovered or invented this wonderful knowledge."_ . The text in the book which Zhang Wuji was looking at had an inscription `Ἀρχιμήδης;` written with a very black ink. 
 
 

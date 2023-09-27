@@ -7,7 +7,7 @@ Copyright © 2019 - 2021 by Pongsak Suvanpong All Rights Reserved (psksvp@gmail.
 __This work must not be sold for any form of monetary returned. It must always be free to read.__
 
 Version : [ 1555 ]
-Date : [ Wed 27 Sep 2023 21:13:26 AEST ]
+Date : [ Wed 27 Sep 2023 21:17:43 AEST ]
 
 ![The Beautiful White Lake. The image was taken from https://en.wikipedia.org/wiki/Terkhiin_Tsagaan_Lake](whiteLake.jpg)
 
@@ -45,7 +45,7 @@ The novel should be read in the sequential order from the lower to the higher ch
 
 	Due to low demand, please email me [psksvp@gmail.com](mailto:psksvp@gmail.com) if you would like me to put these files (EPUB, MOBI and PDF) back. 
 
-<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1555**, published on **Wed 27 Sep 2023 21:13:26 AEST** .
+<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1555**, published on **Wed 27 Sep 2023 21:17:43 AEST** .
     
     [Click here to download ebook files](https://psksvp.gitlab.io/hsdsme/download.html)
 
@@ -133,4 +133,7 @@ After Zhang Wuji found Zhao Min on the Grassland in the far west region of Mongo
 
 > Zhao Min was slowly flipping through the pages of the old book, then she stopped at a page with a diagram. She was looking at the diagram for a moment before she took her notebook out and sketched the diagram down. Zhang Wuji walked back to sit next to her. He looked at the diagram which Zhao Min was sketching for a moment, then he pointed his index finger at the bottom of the page, _"MinMin, Can you read this?"_. He asked, but Zhao Min shook her head, she replied, _"I think, it's the name of the master who discovered or invented this wonderful knowledge."_ . The text in the book which Zhang Wuji was looking at had an inscription `Ἀρχιμήδης;` written with a very black ink. 
 
+[Chapter 57: The East Is Bright](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-57)
+
+> A man who was blind folded was pushed as he walk, both his hands were tied together. Two men who dressed in a unique military uniform were pushing the man to walk forward into a tunnel beside a cliff. When the man disappeared into the tunnel, the two uniformed men stopped, turned and walked away. The bind folded man tuned toward his back. He shouted, _"Hey! Hey!"_ then he started walking toward the entrance of the tunnel. Right at that moment, two other masked men who wore complete black appeared from inside the tunnel, they went right to pull the man. _"hey! who the hell are you?"_ The man tried to resist as he was dragged back into the tunnel. Zhao Min and Zhou Zhiruo were standing on the top of the cliff. When they saw the uniformed men walked away from the tunnel, they nodded at each others before they turned and walked from the cliff edge.
 

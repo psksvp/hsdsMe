@@ -2,12 +2,12 @@
 
 > On The Grassland is a continuing story from the end of JinYong's novel The Heavenly Sword and Dragon Saber  
 
-Copyright © 2019 - 2021 by Pongsak Suvanpong All Rights Reserved (psksvp@gmail.com)
+Copyright © by Pongsak Suvanpong All Rights Reserved (psksvp@gmail.com)
 
 __This work must not be sold for any form of monetary returned. It must always be free to read.__
 
 Version : [ 1555 ]
-Date : [ Thu 19 Oct 2023 11:58:20 AEDT ]
+Date : [ Thu 19 Oct 2023 16:02:45 AEDT ]
 
 ![The Beautiful White Lake. The image was taken from https://en.wikipedia.org/wiki/Terkhiin_Tsagaan_Lake](whiteLake.jpg)
 
@@ -33,7 +33,7 @@ This novel is also available in ebook format; EPUB and PDF. Please email me <psk
 
 Most of this writing is unedited. There are grammatical, spelling errors and wrong words used. I am trying my best to fix any error before I commit, however it is hard to put myself in a reader's eyes.
 
-If you see any errors, please email me (psksvp@gmail.com). Please also let me know if you like or hate it. I can also be reached through [twitter page (https://twitter.com/hsdsme/)](https://twitter.com/hsdsme). I will announce the availability of a new chapter in the twitter page.
+If you see any errors, please email me (psksvp@gmail.com). Please also let me know if you like or hate it.
 
 # How to Read
 
@@ -44,12 +44,6 @@ The novel should be read in the sequential order from the lower to the higher ch
 2. Downloads for Offline Reading
 
 	Due to low demand, please email me [psksvp@gmail.com](mailto:psksvp@gmail.com) if you would like me to put these files (EPUB, MOBI and PDF) back. 
-
-<!--    You can download ebook in **epub** or **pdf** to read offline. They are always in sync with the online version. The Current Version is **1555**, published on **Thu 19 Oct 2023 11:58:20 AEDT** .
-    
-    [Click here to download ebook files](https://psksvp.gitlab.io/hsdsme/download.html)
-
-    The ebooks have been produced by a great free software; [pandoc](https://pandoc.org/). The manuscript for this novel was prepared using [Markdown](https://www.markdownguide.org/) markup language.-->
 
 # The Plot 
 

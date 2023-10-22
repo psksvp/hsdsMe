@@ -7,7 +7,7 @@ Copyright © by Pongsak Suvanpong All Rights Reserved (psksvp@gmail.com)
 __This work must not be sold for any form of monetary returned. It must always be free to read.__
 
 Version : [ 1555 ]
-Date : [ Sun 22 Oct 2023 18:23:10 AEDT ]
+Date : [ Mon 23 Oct 2023 06:22:34 AEDT ]
 
 ![The Beautiful White Lake. The image was taken from https://en.wikipedia.org/wiki/Terkhiin_Tsagaan_Lake](whiteLake.jpg)
 

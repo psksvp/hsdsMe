@@ -7,7 +7,7 @@ Copyright © by Pongsak Suvanpong All Rights Reserved (psksvp@gmail.com)
 __This work must not be sold for any form of monetary returned. It must always be free to read.__
 
 Version : [ 1561 ]
-Date : [ 2025-06-09 ]
+Date : [ 2025-11-12 ]
 
 ![The Beautiful White Lake. The image was taken from https://en.wikipedia.org/wiki/Terkhiin_Tsagaan_Lake](whiteLake.jpg)
 
@@ -87,7 +87,7 @@ After Zhang Wuji found Zhao Min on the Grassland in the far west region of Mongo
 
 [Chapter 47   : There Was A Wise Man In The Southern Land.](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-47)
 
-> Lady Yang walked Zhang Wuji and Zhao Min into an underground room. Then she led them into a narrow hallway. Zhang Wuji had to bend down, so his head would not hit the ceiling. The hallway was very long. Once they got into a large hall, there were multi colors light emitting from a device. When Zhao Min saw the device, she exclaimed loudly, *"The Chang'An Cypher."* Zhang Wuji looked at Zhao Min with a puzzling face. Zhao Min then said, *"Master Zhuge has told me about it when I was 10 years old. I didn't think that it existed"*
+> Lady Yang walked Zhang Wuji and Zhao Min into an underground room. Then she led them into a narrow hallway. Zhang Wuji had to bend down, so his head would not hit the ceiling. The hallway was very long. Once they got into a large hall, there were multi colors light emitting from a device. When Zhao Min saw the device, she exclaimed loudly, *"The Chang'An Cypher."* Zhang Wuji looked at Zhao Min with a puzzling facial expression. Zhao Min then said, *"Master Zhuge has told me about it when I was 10 years old. I didn't think that it existed"*
 
 [Chapter 48   : The Cactus Is Sweeter Than The Crystal Angel.](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-48)
 
@@ -99,7 +99,7 @@ After Zhang Wuji found Zhao Min on the Grassland in the far west region of Mongo
 
 [Chapter 50   : The Evil Is A Die Hard.](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-50)
 
-> For a moment, Zhao Min kept aiming carefully at one of the men who was on the horse back in the middle of the group. Zhang Wuji could hear her breathing was slow and constant. Then she released the arrow and quickly pulled another one out, drew and released in a rapid succession. The arrows followed one after another in an almost perfect straight line to their intended target.
+> For a moment, Zhao Min kept aiming carefully at one of the men who was on the horseback in the middle of the group. Zhang Wuji could hear her breathing was slow and constant. Then she released the arrow and quickly pulled another one out, drew and released in a rapid succession. The arrows followed one after another in an almost perfect straight line to their intended target.
 
 
 [Chapter 51 : The New Face Of The Ruler.](https://psksvp.gitlab.io/hsdsme/zm.html#chapter-51)
